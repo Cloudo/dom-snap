@@ -1,0 +1,36 @@
+{
+  "/Users/cloudo/github/dom-snap/dist/domSnap.cjs.production.js": {
+    "bundled": 4007,
+    "minified": 1981,
+    "gzipped": 922
+  },
+  "/Users/cloudo/github/dom-snap/dist/domSnap.cjs.development.js": {
+    "bundled": 4007,
+    "minified": 1981,
+    "gzipped": 922
+  },
+  "/Users/cloudo/github/dom-snap/dist/domSnap.umd.production.js": {
+    "bundled": 4521,
+    "minified": 1765,
+    "gzipped": 941
+  },
+  "/Users/cloudo/github/dom-snap/dist/domSnap.umd.development.js": {
+    "bundled": 4521,
+    "minified": 1765,
+    "gzipped": 941
+  },
+  "/Users/cloudo/github/dom-snap/dist/domSnap.es.production.js": {
+    "bundled": 3733,
+    "minified": 1751,
+    "gzipped": 851,
+    "treeshaked": {
+      "rollup": {
+        "code": 22,
+        "import_statements": 22
+      },
+      "webpack": {
+        "code": 1006
+      }
+    }
+  }
+}
